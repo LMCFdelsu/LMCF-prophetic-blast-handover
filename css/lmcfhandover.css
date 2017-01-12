@@ -1,0 +1,89 @@
+ body{
+ 	background: black;
+ }
+
+
+.lmcfpix{
+  height: 200px;
+  width: 200px;
+  border-radius: 40px;	
+}
+
+.theme{
+	 background-color:#916900;
+    /*color:#1a75ff;*/
+    padding:5px 8px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 3px solid #3079ed
+}
+
+ #row1 img{
+	width: 250px;
+	height: 250px;
+	border-radius: 200px;
+	border:10px solid #FFD700;	
+}
+#row2 img{
+	width: 250px;
+	height: 250px;
+	border-radius: 200px;
+	border:10px solid #FFD700;	
+}
+
+.thumbnail{
+	background: black;
+
+}
+
+#col1{
+	margin-top: 20px;
+	
+}
+
+#col2{
+	margin-top: 20px;
+}
+#col3{
+	margin-top: 20px;
+}
+
+
+#main{
+	text-align: center;
+}
+main{
+	font-weight:bold; 
+	text-align: center;
+	color:white;
+}
+
+#address{
+	color: #fff;
+}
+#contact{
+	color: #fff;
+}
+
+#contact img{
+    height: 50px;
+    width: 50px;
+   
+}
+
+#all{
+	text-align: center;
+	/*margin-left: 100px;*/	
+}
+
+.watsapp{
+	margin-left: 200px;
+}
+
+
+@media only screen and (max-width: 400px) {
+    body {
+        background: black;
+    }
+
+}
